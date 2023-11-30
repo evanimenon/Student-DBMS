@@ -1,7 +1,5 @@
 # SDBMS
 
-![classroom](https://github.com/evanimenon/SDBMS/assets/77008458/e865a1af-54cf-41ed-865f-83dd29944027)
-
 Student Database Management System - Class 12 Python + MySQL Project
 
 In today's educational landscape, the effective management of student information is crucial for educational institutions of all sizes. Whether it's a school, college, or university, maintaining a comprehensive student database is essential for administrative tasks, academic planning, and ensuring the overall well-being of students. The Student Database Management System (SDMS) project aims to provide a streamlined and efficient solution to address these needs.
